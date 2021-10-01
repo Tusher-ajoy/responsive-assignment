@@ -1,0 +1,85 @@
+body{
+    color: #363958;
+    font-family: 'Roboto', sans-serif;
+}
+/* heading part */
+#home{
+    background-color: #FFF9F4;
+    padding-bottom: 2cm;
+}
+#home ul li a{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 0 30px;
+}
+.logo{
+    font-size: 30px;
+    margin: 15px 0px;
+}
+.text-highlight{
+    color: #FA804C;
+}
+.heading h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+}
+.heading img{
+    margin: 30px 0px;
+    width: 100%;
+}
+.heading p, .heading h1, .heading button{
+    margin-left: 15px;
+}
+
+/* All button */
+.buy-btn{
+    background-color: #3D4FF3;
+    padding: 8px 20px;
+    color: white;
+}
+.buy-btn:hover{
+    background-color: #2a36a5;
+    color: white;
+}
+
+/* Product part */
+#product h1{
+    margin: 40px 0px;
+    font-family: 'Bebas Neue', cursive;
+}
+.card{
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+.card img{
+    padding: 5px;
+}
+.card h4{
+    font-weight: bold;
+}
+
+/* About part */
+#about img {
+    display: block;
+    margin: 0px auto;
+    width: 50%;
+    margin-top: 15px;
+}
+.xml-img{
+    width: 90% !important;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Footer */
+footer{
+    background-color: #3D4FF3;
+    color: white !important;
+}
+.icons i {
+    font-size: 25px;
+    margin: 0 15px;
+    cursor: pointer;
+}
